@@ -1,4 +1,4 @@
-# project-starter
+# flex-box
 
 # Getting Started
 
@@ -9,8 +9,8 @@ Clone this repo, install dependencies, then start the gulp process with
 the following:
 
 ```
-> git clone https://github.com/ahebwa49/project-starter.git
-> cd project-starter
+> git clone https://github.com/ahebwa49/flex-box.git
+> cd flex-box
 > npm install
 > npm start
 ```
