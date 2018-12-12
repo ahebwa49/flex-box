@@ -1,6 +1,7 @@
 /* main.css */
 .container{
   width: 100%;
+  display: flex;
 
 }
 
