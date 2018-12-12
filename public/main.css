@@ -4,10 +4,20 @@
 
 }
 
-.box {
-  width: 150px;
+.box-red {
+  background-color: red;
+  width: 35%;
+  height: 100px
 }
 
-.red {
-  color: red;
+.box-green {
+  background-color: green;
+  width: 30%;
+  height: 100px
+}
+
+.box-blue {
+  background-color: blue;
+  width: 35%;
+  height: 100px
 }
